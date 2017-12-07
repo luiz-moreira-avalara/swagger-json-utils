@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "jsonparser", "jsonparser.csproj", "{240DF84D-4A97-471A-A424-89E7FB5B5749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swagger.Json.Utils", "src/Swagger.Json.Utils.csproj", "{240DF84D-4A97-471A-A424-89E7FB5B5749}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
