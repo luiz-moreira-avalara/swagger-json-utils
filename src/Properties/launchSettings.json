@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Swagger.Json.Utils": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\luiz.moreira\\workspace\\Avalara\\jsonparser\\ignore\\tax-compliance-api.json"
+    }
+  }
+}
