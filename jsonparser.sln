@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
-VisualStudioVersion = 15.0.27004.2006
+VisualStudioVersion = 15.0.27004.2010
 MinimumVisualStudioVersion = 15.0.26124.0
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swagger.Json.Utils", "src/Swagger.Json.Utils.csproj", "{240DF84D-4A97-471A-A424-89E7FB5B5749}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Swagger.Json.Utils", "src\Swagger.Json.Utils.csproj", "{240DF84D-4A97-471A-A424-89E7FB5B5749}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{C5C9037D-2EDC-438F-B922-82696890B67A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -30,6 +32,9 @@ Global
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{240DF84D-4A97-471A-A424-89E7FB5B5749} = {C5C9037D-2EDC-438F-B922-82696890B67A}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A74C2669-2020-421F-8D70-1070116930BE}

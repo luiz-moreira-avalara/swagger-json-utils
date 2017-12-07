@@ -4,7 +4,7 @@ using System.Linq;
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace jsonparser
+namespace Swagger.Json.Utils
 {
     class Program
     {

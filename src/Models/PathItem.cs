@@ -2,7 +2,7 @@
 using Newtonsoft.Json;
 using Newtonsoft.Json.Linq;
 
-namespace jsonparser
+namespace Swagger.Json.Utils.Models
 {
     public class PathItem
     {

@@ -1,7 +1,7 @@
 ﻿using System.Collections.Generic;
 using Newtonsoft.Json.Linq;
 
-namespace jsonparser
+namespace Swagger.Json.Utils.Models
 {
     public class Operation
     {
