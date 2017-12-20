@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Swagger.Json.Utils": {
+      "commandName": "Project",
+      "commandLineArgs": "..\\ignore\\swagger.json circularreferences.json"
+    }
+  }
+}
